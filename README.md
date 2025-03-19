@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about **technology** and the **bank
 ---
 
 ### 🔭 I’m currently working on...
-- **Developing** my skills in programming languages like **Python**, **R**, **C#**, and **Java**, **HTML**,  **CSS** and **JavaScript**.
+- **Developing** my skills in programming languages like **Python**, **R**, **C#**, **Java**, **HTML**,  **CSS** and **JavaScript**.
 - Exploring **data science**, **machine learning**, and **AI applications**.
 - Contributing to **open-source projects** related to **data analysis**, **web development**, and **software engineering**.
 - **Web development** for banking and financial services, focusing on backend systems with **PHP** and **SQL**.
